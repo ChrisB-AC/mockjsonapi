@@ -1,0 +1,46 @@
+[
+  {
+    "Product name": "Maple J-CASE",
+    "Cost": 70.00,
+    "Materials used": [
+      "Canadian Maple",
+      "Brass hinges and screws",
+      "Neodymium magnets",
+      "Beeswax finish"
+    ]
+  },
+  {
+    "Product name": "Walnut J-CASE",
+    "Cost": 75.00,
+    "Materials used": [
+      "Peruvian Walnut",
+      "Brass hinges and screws",
+      "Neodymium magnets",
+      "Beeswax finish"
+    ]
+  }
+]
+[
+  {
+    "Product name": "Padauk J-CASE",
+    "Cost": 78.00,
+    "Materials used": [
+      "African Padauk",
+      "Brass hinges and screws",
+      "Neodymium magnets",
+      "Beeswax finish"
+    ]
+  },
+  {
+    "Product name": "Artist Series J-CASE",
+    "Cost": 80.00,
+    "Materials used": [
+      "Canadian Maple",
+      "Peruvian Walnut",
+      "African Padauk",
+      "Brass hinges and screws",
+      "Neodymium magnets",
+      "Beeswax finish"
+    ]
+  }
+]
